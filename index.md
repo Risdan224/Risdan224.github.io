@@ -23,7 +23,9 @@ Sellers and buyers of used cars who do not have sufficient knowledge about cars 
 ### [Machine Learning Model for Predicting Property Value in Philadelphia](https://github.com/PurwadhikaDev/BetaEngineersTeam_JC_DS_VL_05_FinalProject/blob/main/Philadelphia_Buildings_FIX.ipynb)
 ---
 Create a model to determine property value in the City of Philadelphia based on property characteristics created by the Philadelphia Office of Property Assessment (OPA). The goal is to obtain the true value of a property which will be used as the basis for determining the property tax price.
-<bf> 
+
+<br> 
+
 <img src="images/actual_prediction.jpg?raw=true"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
