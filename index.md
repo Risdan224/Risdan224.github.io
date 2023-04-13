@@ -18,29 +18,14 @@ Sellers and buyers of used cars who do not have sufficient knowledge about cars 
 | Negotiable | Bool | If True, the price is 0. This means the price is negotiable (not set) |
 | Price | int | Price of the used car (in SAR) |
 
+<br>
+
+### [Machine Learning Model for Predicting Property Value in Philadelphia](https://github.com/PurwadhikaDev/BetaEngineersTeam_JC_DS_VL_05_FinalProject/blob/main/Philadelphia_Buildings_FIX.ipynb)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Create a model to determine property value in the City of Philadelphia based on property characteristics created by the Philadelphia Office of Property Assessment (OPA). The goal is to obtain the true value of a property which will be used as the basis for determining the property tax price.
+<bf> 
+<img src="images/actual_prediction.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
