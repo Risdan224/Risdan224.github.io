@@ -1,4 +1,5 @@
-## Data Analytic and Data Science Portfolio
+# Data Analytic and Data Science Portfolio
+---
 
 ### Predicting Saudi Used Car Price using Machine Learning (Regression Model)
 
