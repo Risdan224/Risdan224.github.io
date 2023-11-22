@@ -2,9 +2,9 @@
 ---
 ### [Data Analysis on Liga 1 Indonesia 2023-2024 Players](https://medium.com/@risdan.kristori/data-analysis-on-liga-1-indonesia-2023-2024-players-mostly-seaborn-fbb227077393)
 
-Using Python data visualization libraries (Pandas and Seaborn) to analyze a dataset of Liga 1 Indonesian Soccer Player 2023-2024. The data of the players include `player_name`, `market_value`, `nationality`, `birth_date`, `position`, `date_joined`, `contract`, and `club_name`. The aim of this analysis is to find players with the highest market value, compare the market value of local and foreign players, see the distribution of foreign players within the club, find the youngest players and veteran players in the league.
+Using Python data visualization libraries (Pandas and Seaborn) to analyze a dataset of Liga 1 Indonesian Soccer Player 2023-2024. The data of the players include `player_name`, `market_value`, `nationality`, `birth_date`, `position`, `date_joined`, `contract`, and `club_name`. The aim of this analysis is to find players with the highest market value, compare the market value of local and foreign players, see the distribution of foreign players within the club, and find the youngest players and veteran players in the league.
 
-<img src="images/young_player.webp?raw=true" width="200" height="200"/> <img src="images/foreign_market_value.webp?raw=true" width="200" height="200"/>
+<img src="images/young_player.webp?raw=true" width="300" height="300"/> <img src="images/foreign_market_value.webp?raw=true" width="300" height="300"/>
 
 [Full analysis at Medium](https://medium.com/@risdan.kristori/data-analysis-on-liga-1-indonesia-2023-2024-players-mostly-seaborn-fbb227077393)
 <br>
