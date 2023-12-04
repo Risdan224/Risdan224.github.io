@@ -1,4 +1,4 @@
-# Data Analytics
+# Data Analytic Portfolios:
 ---
 ### [Data Analysis on Liga 1 Indonesia 2023-2024 Players](https://medium.com/@risdan.kristori/data-analysis-on-liga-1-indonesia-2023-2024-players-mostly-seaborn-fbb227077393)
 
@@ -20,7 +20,7 @@ Using Pandas Library to analyze rice production in Indonesia 2020-2022. There ar
 [Repository on Github](https://github.com/Risdan224/sentiment_analysis_on_MLBB_game_reviews)
 <br>
 <br>
-# Data Science
+# Data Science Portfolios:
 ---
 ### [Sentiment Analysis on Mobile Legends Bang Bang Mobile Game Review (NLP and Classification Machine Learning)](https://medium.com/@risdan.kristori/sentiment-analysis-on-mobile-legends-bang-bang-mlbb-reviews-328ee6ed6ca9)
 
